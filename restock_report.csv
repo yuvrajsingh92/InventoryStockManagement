@@ -1,0 +1,7 @@
+item,current_stock,threshold,priority,suggested_order
+Mouse,5,10,Low,15
+Keyboard,8,8,Low,8
+Monitor,2,5,Low,8
+Printer,0,5,Critical,10
+Headphones,12,15,Low,18
+Charger,4,10,Low,16
